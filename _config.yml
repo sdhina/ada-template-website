@@ -1,6 +1,9 @@
-theme: jekyll-theme-minimal
-title: Test Title
-description: A template website for ADA
+#Name of the website
+title: Player based optimization of wikipedia for Wikispeedia!
+#authors
+author: EPFL DataDynamos Team
+#githubrepo
+github: https://github.com/epfl-ada/ada-2023-project-epfldatadynamos
 show_downloads: False
 navigation:
   - title: Home
