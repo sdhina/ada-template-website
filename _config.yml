@@ -3,6 +3,6 @@ title: Test Title
 description: A template website for ADA
 show_downloads: True
 navigation:
-  -title: Home
+  - title: Home
     url: /
   
